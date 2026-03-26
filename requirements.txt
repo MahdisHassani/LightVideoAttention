@@ -1,0 +1,6 @@
+torch==2.7.1+cu118
+torchvision==0.22.1+cu118
+opencv-python==4.13.0.92
+tqdm==4.67.3
+ImageIO==2.37.3
+numpy==2.2.6
