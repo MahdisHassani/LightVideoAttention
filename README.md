@@ -96,6 +96,15 @@ This will:
 
 ## Installation
 
+Clone this repository:
+
+```bash
+git clone https://github.com/MahdisHassani/LightVideoAttention.git
+cd LightVideoAttention
+```
+
+Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
